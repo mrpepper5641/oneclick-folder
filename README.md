@@ -1,4 +1,4 @@
-# OneClick Folder
+# One Click Folder
 
 Googleドライブに共有フォルダを1クリックで作る、個人用のWindowsツールの公開情報です。
 
@@ -12,8 +12,8 @@ Googleドライブに共有フォルダを1クリックで作る、個人用のW
 
 ## 注意
 
-- 「OneClick Folder」を名乗るファイルをネットから入手して実行しないでください。
-- 心当たりのない「OneClick Folder」の許可画面が表示されたら、許可しないでください。
+- 「One Click Folder」を名乗るファイルをネットから入手して実行しないでください。
+- 心当たりのない「One Click Folder」の許可画面が表示されたら、許可しないでください。
 
 ## アプリが行うこと
 
@@ -23,7 +23,7 @@ Googleドライブに共有フォルダを1クリックで作る、個人用のW
 
 ## 許可を取り消す
 
-[Googleアカウントの権限ページ](https://myaccount.google.com/permissions)で、OneClick Folderのアクセスを削除してください。
+[Googleアカウントの権限ページ](https://myaccount.google.com/permissions)で、One Click Folderのアクセスを削除してください。
 
 ## 利用の禁止事項
 
